@@ -17,7 +17,12 @@ The inspiration behind Flow_Art stems from my fascination with the flow of the b
 - **Interactive**: Offers viewers the ability to interact with the art pieces, influencing the flow and outcome of the art.
 - **Mutisensory**: Provides a choice of background music.
 
+## Check out the video demo!
 
-## Getting Started
+(https://mewing-close-db8.notion.site/Flow-Art-Video-Demo-0bb0f0aa4adf446795afabbe47dba6db?pvs=4)
 
-## Acknowledgments
+
+## Sources that provided me inspiration (Thank you!):
+-djwolfson.weebly.com/perlin-noise.html
+-codepen.io/HappiestMeal/pen/GwQrjq
+
