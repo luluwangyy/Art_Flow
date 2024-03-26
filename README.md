@@ -19,7 +19,7 @@ The inspiration behind Flow_Art stems from my fascination with the flow of the b
 
 ## Check out the video demo!
 
-(https://mewing-close-db8.notion.site/Flow-Art-Video-Demo-0bb0f0aa4adf446795afabbe47dba6db?pvs=4)](https://luluyueyiwang.com/9/)
+(https://luluyueyiwang.com/9/)
 
 
 ## Sources that provided me inspiration (Thank you!):
