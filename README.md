@@ -19,7 +19,7 @@ The inspiration behind Flow_Art stems from my fascination with the flow of the b
 
 ## Check out the video demo!
 
-https://luluyueyiwang.com/9/
+https://luluyueyiwang.com/flowart/
 
 
 ## Sources that provided me inspiration (Thank you!):
